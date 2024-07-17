@@ -1,0 +1,81 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "vero rerum temporibus dolor",
+      "completed": false
+    },
+    {
+      "userId": "1",
+      "title": "test",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "userId": "1",
+      "title": "test",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "userId": "1",
+      "title": "ttttt",
+      "completed": false,
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
